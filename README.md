@@ -1,6 +1,6 @@
 # 🛒 GitStore
 
-Repositório criado para a atividade de extensão **Dev e Git - Equipe 5**.  
+Repositório criado para a atividade de extensão **Dev e Git - Equipe 8**.  
 O projeto consiste na criação de um e-commerce utilizando tecnologias web modernas.
 
 ---
@@ -38,18 +38,5 @@ O site contará com páginas responsivas e interativas, simulando uma loja virtu
 
 ---
 
-## 📂 Estrutura do Projeto
 
-GitStore/
-│
-├── index.html
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-├── img/
-│ └── (imagens do projeto)
-└── README.md
-
----
 
