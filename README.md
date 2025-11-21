@@ -5,7 +5,7 @@ O projeto consiste na criação de um e-commerce utilizando tecnologias web mode
 
 ---
 
-## 👥 Equipe
+## Equipe
 
 - **Integrante Líder 1: Fernando Emanuel Lima Dos Santos 24183127-2**  
 - **Integrante 2: Caio Vinicius Bueno de Souza 24000954-2**   
@@ -15,14 +15,14 @@ O projeto consiste na criação de um e-commerce utilizando tecnologias web mode
 
 ---
 
-## 💡 Sobre o Projeto
+## Sobre o Projeto
 
 **GitStore** é um e-commerce desenvolvido com o objetivo de aplicar os conceitos de versionamento com Git e GitHub, além de reforçar o aprendizado prático em desenvolvimento web.  
 O site contará com páginas responsivas e interativas, simulando uma loja virtual funcional.
 
 ---
 
-## 🧰 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5** – estrutura das páginas  
 - **CSS3** – estilização e layout responsivo  
@@ -30,7 +30,7 @@ O site contará com páginas responsivas e interativas, simulando uma loja virtu
 
 ---
 
-## 🚀 Objetivos da Atividade
+## Objetivos da Atividade
 
 - Praticar o uso de **Git** e **GitHub** em equipe  
 - Compreender o fluxo de trabalho colaborativo (branch, commit, merge, pull request)  
@@ -41,7 +41,7 @@ O site contará com páginas responsivas e interativas, simulando uma loja virtu
 ## Projeto GitStore
 
 Este projeto foi desenvolvido para a atividade de Git.
-Link do Deploy: (Aguardando deploy)
+Link do Deploy: https://extensaodevgit-equipe8.onrender.com
 
 ---
 
