@@ -38,5 +38,14 @@ O site contará com páginas responsivas e interativas, simulando uma loja virtu
 
 ---
 
+## Projeto GitStore
 
+Este projeto foi desenvolvido para a atividade de Git.
+Link do Deploy: (Aguardando deploy)
+
+---
+
+## Status
+
+Em desenvolvimento.
 
