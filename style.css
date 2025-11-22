@@ -29,3 +29,14 @@ h1 {
 .btn-detalhes:hover {
     background-color: #5a6268;
 }
+.product {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 20px;
+    margin-top:20px;
+}
+.product-details {
+    max-width: 420px;
+    text-align: left;
+}
