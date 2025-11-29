@@ -1,0 +1,4 @@
+1) O que é uma branch?
+Uma branch é como uma estrada paralela onde uma equipe pode desenvolver uma ideia nova sem tocar na história principal. Cada pessoa segue seu trecho, escreve um final alternativo e guarda suas mudanças lá. 
+2) O que é um merge?
+O merge é o momento de escolher qual final vira oficial: junta-se as linhas, verifica conflitos e cola a melhor versão na linha principal.
