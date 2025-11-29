@@ -53,20 +53,26 @@ header nav a:hover { color: #8b949e; }
     justify-content: center;
     margin-bottom: 40px;
 }
-
+/* Títulos das seções */
+.section-title { 
+    margin-bottom: 20px; 
+    font-size: 24px; 
+    border-bottom: 1px solid #30363d; 
+    padding-bottom: 10px;
+    color: #f0f6fc; 
+}
 /* Card do Produto */
 .product-card {
-    background: white;
-    border: 1px solid #e1e4e8;
+    background: #161b22; /* Fundo do card escuro */
+    border: 1px solid #30363d; /* Borda escura */
     border-radius: 6px;
-    width: 220px; /* Largura fixa para alinhar */
-    position: relative; /* Importante para o badge funcionar */
-    transition: transform 0.2s, box-shadow 0.2s;
+    width: 220px;
+    position: relative;
+    transition: transform 0.2s, border-color 0.2s;
     overflow: hidden;
     display: flex;
     flex-direction: column;
 }
-
 .product-card:hover {
     transform: translateY(-4px);
     box-shadow: 0 8px 24px rgba(149,157,165,0.2);
@@ -76,14 +82,25 @@ header nav a:hover { color: #8b949e; }
     width: 100%;
     height: 180px;
     object-fit: contain;
-    background-color: #fff;
-    border-bottom: 1px solid #eaecef;
+    background-color: #fff; /* Mantém fundo branco na img para contraste do produto */
+    border-bottom: 1px solid #30363d;
     padding: 10px;
+    opacity: 0.9; /* Leve transparência para integrar melhor */
 }
 
 .card-info { padding: 16px; text-align: left; }
-.card-name { font-weight: 600; margin-bottom: 8px; color: #0366d6; }
-.card-price { color: #218838; font-weight: 800; font-size: 18px; }
+
+.card-name { 
+    font-weight: 600; 
+    margin-bottom: 8px; 
+    color: #58a6ff; /* Azul mais claro e neon */
+}
+
+.card-price { 
+    color: #3fb950; /* Verde vibrante */
+    font-weight: 800; 
+    font-size: 18px; 
+}
 
 /* Badge Novo */
 .badge {
